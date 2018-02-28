@@ -1,11 +1,9 @@
-# 2018-02-23-d001-arrival-at-seattle
-#journal
-
-- - - -
+---
 layout: post
-title:  “낯선 곳으로의 도착”
+title:  "낯선 곳으로의 도착"
 author: "Yoojung"
-- - - -
+---
+
 
 ~~~
 Day+001 @시애틀의 어떤 에어비앤비
