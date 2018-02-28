@@ -1,15 +1,28 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Yoojung"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+이 블로그에는 2018년 2월 23일부터 2019년 3월 언젠가까지의 나의 시애틀 생활을 기록한다. 자세한 나의 정보는 [yoojung.kim](http://yoojung.kim)에서 확인할 수 있다.
 
-Thanks for reading!
+
+
+일단 몇 가지 기록 원칙들과 목표에서 시작해본다. 계속해서 추가되거나 수정될 것으로 예상된다. 
+
+
+
+### 기록의 목적
+
+- 가족, 친구, 동료 등 가까운 사람들이 여기서의 나의 생활을 가늠할 수 있도록 하는 것
+- 낯선 곳에서의 나의 상황, 기분을 그때그때 남겨놓음으로써 나중에 돌아볼 수 있도록 하는 것
+
+
+
+### 기록의 원칙
+
+- **어쨌든 빠짐없이**: 중요한 건 성실하게 쓰는 것. 최대한 빠짐없이 써보도록 하자. 
+- **정보 공개 문제를 고려할 것**: 어쨌든 퍼블릭한 곳에 쓰는 것이므로 원치않게 타인의 사생활을 침해하는 일이 없도록 한다. 나의 삶에 스며드는 타인의 이야기를 어디까지 풀어놓을 것인가? 그런 부분들은 언제나 문제가 된다. 여튼 최대한 나의 기분이나 생각을 중심으로 써보도록 하자.
