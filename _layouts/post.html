@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 <div class="post">
@@ -24,6 +25,7 @@ layout: default
 
 </div>
 
+
 <div class="pagination">
   {% if page.next.url %}
     <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
@@ -34,3 +36,5 @@ layout: default
 
   <a href="#" class="top">Top</a>
 </div>
+
+
