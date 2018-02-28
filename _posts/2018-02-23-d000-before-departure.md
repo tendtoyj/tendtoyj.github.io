@@ -12,7 +12,7 @@ Day+0001 @인천공항 제2터미널 대한항공 라운지
 
 
 
-![p01]({{tendtoyj.github.io}}/_assets/2018-02-23-p01.jpg)
+![p01]({{site.url}}/_assets/2018-02-23-p01.jpg)
 
 
 
