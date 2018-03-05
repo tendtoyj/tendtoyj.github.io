@@ -1,6 +1,3 @@
-# 2018-02-26-d004-J1-orientation
-#journal
-
 - - - -
 layout: post
 title:  “J1 교육과 H언니와의 만남”
