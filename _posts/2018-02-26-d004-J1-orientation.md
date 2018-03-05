@@ -1,8 +1,8 @@
-- - - -
+---
 layout: post
 title:  “J1 교육과 H언니와의 만남”
 author: "Yoojung"
-- - - -
+---
 <br>
 ~~~
 Day+004 @시애틀의 어떤 에어비앤비.
