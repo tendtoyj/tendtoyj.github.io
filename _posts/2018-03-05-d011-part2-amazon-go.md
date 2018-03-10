@@ -17,7 +17,7 @@ Day+015 @Suzzallo library starbucks에서 이어서 쓰다.
 ## 쇼핑의 미래, 아마존 고(Amazon Go)에 다녀오다
 아마존고는 DoL에서는 걸어서 15-20분쯤? 보니까 Amazon Sphere라는 멋들어진 아마존 오피스 근처에 있는 거였는데, 거기는 뭐 직원이랑 같이 들어가야만 구경할 수 있는 곳이라는듯...
 
-![p05]({{site.url}}/assets/2018-03-05-p05.JPG
+![p05]({{site.url}}/assets/2018-03-05-p05.JPG)
 _올ㅋ멋있음ㅋ_
 <br>
 
