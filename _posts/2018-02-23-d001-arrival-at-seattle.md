@@ -2,6 +2,7 @@
 layout: post
 title:  "낯선 곳으로의 도착"
 author: "Yoojung"
+comments: true
 ---
 
 <br>

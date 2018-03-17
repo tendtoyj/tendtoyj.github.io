@@ -2,6 +2,7 @@
 layout: post
 title:  "J1 교육과 H언니와의 만남"
 author: "Yoojung"
+comments: true
 ---
 <br>
 ~~~

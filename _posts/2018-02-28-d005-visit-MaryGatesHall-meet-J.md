@@ -2,6 +2,7 @@
 layout: post
 title:  "캠퍼스 본격 진입과 J와의 만남"
 author: "Yoojung"
+comments: true
 ---
 <br>
 ~~~

@@ -2,6 +2,7 @@
 layout: post
 title:  "따뜻한 환대"
 author: "Yoojung"
+comments: true
 ---
 <br>
 ~~~

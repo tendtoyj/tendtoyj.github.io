@@ -2,6 +2,7 @@
 layout: post
 title:  "장렬하게 실패한 면허증 발급"
 author: "Yoojung"
+comments: true
 ---
 <br>
 ~~~

@@ -2,6 +2,7 @@
 layout: post
 title:  "벨뷰(Bellevue)에 가다"
 author: "Yoojung"
+comments: true
 ---
 <br>
 ~~~

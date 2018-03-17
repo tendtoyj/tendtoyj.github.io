@@ -2,6 +2,7 @@
 layout: post
 title:  "시애틀 관찰 일기: 생활자와 여행자 사이 어디쯤"
 author: "Yoojung"
+comments: true
 ---
 <br>
 ~~~

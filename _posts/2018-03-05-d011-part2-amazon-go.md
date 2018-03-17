@@ -2,6 +2,7 @@
 layout: post
 title:  "쇼핑의 미래, 아마존고(Amazon Go) 후기"
 author: "Yoojung"
+comments: true
 ---
 <br>
 ~~~

@@ -2,6 +2,7 @@
 layout: post
 title:  "최악의 식사"
 author: "Yoojung"
+comments: true
 ---
 <br>
 ~~~
