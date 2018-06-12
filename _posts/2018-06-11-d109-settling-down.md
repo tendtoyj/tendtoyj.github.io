@@ -6,7 +6,7 @@ comments: true
 ---
 <br>
 ~~~
-Day+090 @스튜디오에서 쓰다
+Day+0109 @Vivace Espresso에서 쓰다
 ~~~
 
 <br>
